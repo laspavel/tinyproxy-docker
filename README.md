@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/v/release/laspavel/tinyproxy-docker) ![](https://img.shields.io/docker/pulls/laspavel/tinyproxy)
+![](https://img.shields.io/github/v/release/laspavel/tinyproxy-docker) ![](https://img.shields.io/docker/pulls/laspavel/tinyproxy) ![](https://img.shields.io/github/license/laspavel/tinyproxy-docker)
 
 # tinyproxy in Docker
 dockerfile for tinyproxy on alpine linux.
